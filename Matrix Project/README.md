@@ -17,7 +17,7 @@ Hardware used on building the game:
 		9. 10UF 50V
 		10. 104 ceramic capacitor
 		
-		![Hardware Image](https://i.ibb.co/Sn6cCtB/reeeebi.jpg)
+![Hardware Image](https://i.ibb.co/Sn6cCtB/reeeebi.jpg)
 	
 HOW TO PLAY:
 

@@ -5,15 +5,11 @@
 
 <p>To carry out the project we used:</p>
 <ul>
-<li>64 - RGB LED</li>
-<li>resistors</li>
-  <ul>
-    <li>48 - 330 ohm</li>
-    <li>4 - 1k ohm</li>
-    <li>1 - 10 ohm</li>
-  </ul>
-<li>4 - 2n2222 transistor</li>
-<li>wires</li>
+  <li>64 - RGB LED</li>
+  <li>7 - SN74HC595N</li>  
+  <li>resistors (48 - 330 ohms, 4 - 1k ohms, 1 - 10 ohms)</li>
+  <li>4 - 2n2222 transistor</li>
+  <li>wires</li>
   
 </ul>
 
